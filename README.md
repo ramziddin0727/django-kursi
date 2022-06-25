@@ -1,0 +1,2 @@
+# django-kursi
+django faillar
